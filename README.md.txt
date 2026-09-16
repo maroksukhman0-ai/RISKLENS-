@@ -18,11 +18,7 @@ Schools often identify academically struggling or disengaged students only after
 
 ## Live Demo
 
-*(Add your Streamlit Cloud link here once deployed — see instructions below)*
-
-## Screenshots
-
-*(Add 2-3 screenshots of your app here once you have them — see instructions below)*
+🔗 [Try RiskLens live](https://maroksukhman0-ai-risklens--risklens-fifwho.streamlit.app/)
 
 ## Tech Stack
 
@@ -59,10 +55,10 @@ Students are classified as:
 ## Running Locally
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/risk-lens.git
-cd risk-lens
+git clone https://github.com/maroksukhman0-ai/RISKLENS-.git
+cd RISKLENS
 pip install -r requirements.txt
-streamlit run app.py
+streamlit run RISKLENS.py
 ```
 
 ## Key Findings (from sample dataset)
